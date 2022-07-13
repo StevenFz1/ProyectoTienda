@@ -1,0 +1,6 @@
+com\ProyectoTienda\service\ClienteServiceImpl.class
+com\ProyectoTienda\dao\ClienteDao.class
+com\ProyectoTienda\controller\IndexController.class
+com\ProyectoTienda\service\ClienteService.class
+com\ProyectoTienda\ProyectoApplication.class
+com\ProyectoTienda\domain\Cliente.class

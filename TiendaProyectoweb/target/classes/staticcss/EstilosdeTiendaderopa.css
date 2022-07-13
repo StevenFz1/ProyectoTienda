@@ -1,0 +1,127 @@
+
+
+#Titulo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 8%;
+    width: 100%;
+    background-color: blue;
+    color: white;
+}
+
+#Menu{
+      position: absolute;
+    top: 8%;
+    left: 0;
+    height: 4%;
+    width: 100%;
+    background-color: white;
+    color: blue;
+}
+
+#menu a {
+    background-color: yellow;
+    color: blue;
+}
+
+#menu a:hover{
+    background-color: white;
+    color: blue;
+}
+
+#Contenido {
+     position: absolute;
+    top: 12%;
+    left: 20%;
+    height: 81%;
+    width: 48%;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    overflow: auto
+}
+
+#Niñas {
+      position: absolute;
+    top: 12%;
+    left: 0;
+    height: 81%;
+    width: 20%;
+    background-color: white;
+    color: blue;
+    padding: 10px;
+}
+
+#Niñosyniñas{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 5%;
+    width: 100%;
+    background-color: blue;
+    color: white;
+}
+
+#Novedades{
+      position: absolute;
+    top: 0;
+    left: 0;
+    height: 5%;
+    width: 100%;
+    background-color: blue;
+    color: white;
+}
+
+#Mujer{
+     position: absolute;
+    top: 12%;
+    left: 0;
+    height: 81%;
+    width: 20%;
+    background-color: white;
+    color: blue;
+    padding: 10px;
+}
+
+#Accesorios{
+     position: absolute;
+    top: 0;
+    left: 0;
+    height: 5%;
+    width: 100%;
+    background-color: blue;
+    color: white;
+}
+
+#RopaMujer{
+     position: absolute;
+    top: 0;
+    left: 0;
+    height: 5%;
+    width: 100%;
+    background-color: blue;
+    color: white;
+}
+
+#RopaHombre{
+     position: absolute;
+    top: 0;
+    left: 0;
+    height: 5%;
+    width: 100%;
+    background-color: blue;
+    color: white;
+}
+
+#Piepagina{
+     position: absolute;
+    bottom: 0%;
+    left: 0%;
+    height: 4%;
+    width: 100%;
+    background-color: yellow;
+    color: blue;
+    text-align: center;
+    
+}
